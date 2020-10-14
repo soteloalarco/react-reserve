@@ -1,1 +1,1 @@
-## Starting Repo for MERN Stack - The Complete Guide
+## Web Application using MERN Stack + Next.js
