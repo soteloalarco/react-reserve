@@ -6,8 +6,9 @@ class MyApp extends App {
     const { Component } = this.props;
     return (
       <Layout>
-        <Component />
+        <Component/>
       </Layout>
+          
   );
   }
 }
